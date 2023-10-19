@@ -5,7 +5,7 @@ import json
 values = 0.0
 act1="OFF"
 
-def on_publish(client,userdata,result):             #create function for callback
+def on_publish(client,userdata,result):             
     print("el dato ha sido publicado \n")
     pass
 
